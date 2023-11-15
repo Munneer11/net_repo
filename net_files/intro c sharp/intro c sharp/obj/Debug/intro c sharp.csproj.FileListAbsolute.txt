@@ -1,0 +1,7 @@
+C:\Users\SightSpectrum\source\repos\intro c sharp\intro c sharp\obj\Debug\intro c sharp.csproj.AssemblyReference.cache
+C:\Users\SightSpectrum\source\repos\intro c sharp\intro c sharp\obj\Debug\intro c sharp.csproj.CoreCompileInputs.cache
+C:\Users\SightSpectrum\source\repos\intro c sharp\intro c sharp\bin\Debug\intro c sharp.exe.config
+C:\Users\SightSpectrum\source\repos\intro c sharp\intro c sharp\bin\Debug\intro c sharp.exe
+C:\Users\SightSpectrum\source\repos\intro c sharp\intro c sharp\bin\Debug\intro c sharp.pdb
+C:\Users\SightSpectrum\source\repos\intro c sharp\intro c sharp\obj\Debug\intro c sharp.exe
+C:\Users\SightSpectrum\source\repos\intro c sharp\intro c sharp\obj\Debug\intro c sharp.pdb
